@@ -1,0 +1,1 @@
+Bulls and Cows game from a Udemy course I took in high school while I was learning C++ on my own. While this code is from a guided tutorial, I myself added an implementation of using a text file as a word bank rather than storing it in an array in the program. I also added a difficulty setting to the game. 
